@@ -42,5 +42,3 @@ Lean Six Sigma Green Belt | MITx SCM MicroMasters | SAP IBP & CI-DS
 [LinkedIn](https://www.linkedin.com/in/pallavi-khabale) | [Portfolio](https://pallavi-khabale.github.io/PallaviKhabalePortfolio/)
 
 ---
-
-*Certification Dates: 2023*  
