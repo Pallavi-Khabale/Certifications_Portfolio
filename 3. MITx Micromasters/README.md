@@ -10,8 +10,8 @@
 
 ## 🔗 Verified Credentials
 
-- [SC0x Certificate](https://courses.edx.org/certificates/0fa6ce6946aa4180b56c5adf09b1d3cf) *(Add URL if public)*
-- [SC1x Certificate](https://courses.edx.org/certificates/3c2bbd431c964fb9b00a42768a912fcf) *(Add URL if public)*
+- [SC0x Certificate](https://courses.edx.org/certificates/0fa6ce6946aa4180b56c5adf09b1d3cf)
+- [SC1x Certificate](https://courses.edx.org/certificates/3c2bbd431c964fb9b00a42768a912fcf)
 
 ---
 
