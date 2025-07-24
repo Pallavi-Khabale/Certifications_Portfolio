@@ -53,6 +53,6 @@ These courses emphasized **data-driven decision-making**, **network design**, an
 ## 👩‍💻 Author
 
 **Pallavi Khabale**  
-Master of Supply Chain Management – University of Washington  (2024-25)
-MITx MicroMasters in SCM
-[LinkedIn](https://www.linkedin.com/in/pallavi-khabale) | [Portfolio](https://pallavi-khabale.github.io/PallaviKhabalePortfolio/)
+Master of Supply Chain Management, University of Washington (2024–2025)  
+[LinkedIn](https://www.linkedin.com/in/pallavi-khabale) | [Portfolio Website](https://pallavi-khabale.github.io/PallaviKhabalePortfolio/)
+
