@@ -2,7 +2,6 @@
 
 🎓 **Issued by**: Foster School of Business, University of Washington  
 📅 **Issued on**: September 11, 2024  
-🔗 [Verified Credential](https://badgr.com/public/assertions/WSIlXRXuRuCHUDdqjlq8lQ)    
 
 ---
 
