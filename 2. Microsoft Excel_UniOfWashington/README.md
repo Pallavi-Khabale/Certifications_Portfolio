@@ -68,5 +68,5 @@ It reflects hands-on capability in **advanced Excel functions**, data manipulati
 ## 🧑‍💼 Author
 
 **Pallavi Khabale**  
-Master of Supply Chain Management, University of Washington  
+Master of Supply Chain Management, University of Washington (2024–2025)  
 [LinkedIn](https://www.linkedin.com/in/pallavi-khabale) | [Portfolio](https://pallavi-khabale.github.io/PallaviKhabalePortfolio/)
