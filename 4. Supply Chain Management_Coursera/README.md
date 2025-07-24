@@ -80,4 +80,4 @@ Through these courses, I have developed the capability to:
 **Pallavi Sampat Khabale**  
 Master of Supply Chain Management – University of Washington  
 Lean Six Sigma Green Belt | MITx SCM MicroMasters | SAP IBP & CI-DS  
-[LinkedIn](https://www.linkedin.com/in/pallavi-khabale) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/pallavi-khabale) | [Portfolio](https://pallavi-khabale.github.io/PallaviKhabalePortfolio/)
